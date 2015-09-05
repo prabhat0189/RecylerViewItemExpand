@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\PRABHAT\AndroidStudioProjects\RecylerViewItemExpand\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="C:\Users\PRABHAT\AndroidStudioProjects\RecylerViewItemExpand\app\build\intermediates\pre-dexed\debug\classes-80b765bf750409675b36de328bd733446ed396da.jar" />
+    </item>
+    <item
+        jar="C:\Users\PRABHAT\AndroidStudioProjects\RecylerViewItemExpand\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\PRABHAT\AndroidStudioProjects\RecylerViewItemExpand\app\build\intermediates\pre-dexed\debug\classes-fd670d90c387bbf5483a1296fd9c630efb8ebfe5.jar" />
+    </item>
+    <item
+        jar="C:\Users\PRABHAT\AndroidStudioProjects\RecylerViewItemExpand\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\PRABHAT\AndroidStudioProjects\RecylerViewItemExpand\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-9c6fd1b2f71d3d836ef0ade64b158e6a875bd934.jar" />
+    </item>
+    <item
+        jar="C:\Users\PRABHAT\AndroidStudioProjects\RecylerViewItemExpand\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\PRABHAT\AndroidStudioProjects\RecylerViewItemExpand\app\build\intermediates\pre-dexed\debug\classes-d805692844328a9467395a4a86294453d1756ec7.jar" />
+    </item>
+    <item
+        jar="C:\Users\PRABHAT\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\PRABHAT\AndroidStudioProjects\RecylerViewItemExpand\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-978798ca6e8d8d728d07e19f5e2b85b21a976c50.jar" />
+    </item>
+
+</items>
